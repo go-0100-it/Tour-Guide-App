@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="amusement_water_parks_0">A PIRATE’S LIFE</string>
+    <string name="amusement_water_parks_1">CANADIAN NATIONAL EXHIBITION</string>
+    <string name="amusement_water_parks_2">iFLY TORONTO</string>
+    <string name="amusement_water_parks_3">LEGOLAND DISCOVERY CENTRE</string>
+    <string name="amusement_water_parks_4">PLAYDIUM</string>
+    <string name="amusement_water_parks_5">SKY ZONE TRAMPOLINE PARK</string>
+    <string name="amusement_water_parks_6">TREETOP ECO-ADVENTURE PARK</string>
+    <string name="amusement_water_parks_7">CENTREVILLE AMUSEMENT PARK</string>
+
+    <string name="amusement_water_parks_0_details">May - October. Venture to Centre Island to explore the city park’s various attractions and activities and join our scurvy crew!\nCome dressed in your favourite pirate costumes or rummage through our collection of vests, sashes and bandanas as you become one of us!</string>
+    <string name="amusement_water_parks_1_details">August 19 - September 5, 2016. One of the largest annual fairs in North America, the CNE offers a variety of entertainment experiences including shows and concerts, Kids’ World, a large carnival midway, a working farm, shopping, food, and a three day Air Show.</string>
+    <string name="amusement_water_parks_2_details">An Epic Experience – Come defy the law of gravity at iFLY Toronto. Solo, with a group, with your family or friends, enjoy indoor skydiving in a safe environment.  It’s an opportunity to experience the sensation of free-fall. Imagine a 14-foot cylindrical diameter vertical tube …</string>
+    <string name="amusement_water_parks_3_details">Welcome to LEGOLAND® Discovery Centre Toronto, an attraction for children 3 – 10yrs and their families. With heavily LEGO® themed experiences that appeal to a child’s fascination it takes them into a world of endless possibilities!  Our attraction gives children the opportunity to see the …</string>
+    <string name="amusement_water_parks_4_details">Playdium is the ultimate high-tech Family Entertainment Centre featuring over 200 interactive and physical games, rides and sports simulators. The 11 acre outdoor site includes Go-Karts, Mini-Golf, 9 variable speed batting cages and “Water Wars”. Playdium is “The Ultimate Place To Play”</string>
+    <string name="amusement_water_parks_5_details">Sky Zone Toronto is the GTA’s latest installment of the world’s first all trampoline walled playing courts. Play 3D dodgeball, defy gravity in open jump, leap into our massive foam pit, or dunk a basketball on our new Sky Slam court! Sky Zone Toronto is …</string>
+    <string name="amusement_water_parks_6_details">Treetop Eco-Adventure Park is a tree-to-tree Zipline Park in the GTA, channel your inner Lara Croft or Indiana Jones by ziplining down our 734′ BIG Zip or traverse our Canyon Suspension Bridge at over 60′ in the air.</string>
+    <string name="amusement_water_parks_7_details">Centreville, located on the Toronto Islands, is the ultimate summer destination for families with young children. With over 30 rides and attractions this theme park offers up a full day of family fun. Getting to Centreville is almost as exciting as the park itself. Everyone …</string>
+
+    <string name="amusement_water_parks_0_website">http://www.piratelife.ca</string>
+    <string name="amusement_water_parks_1_website">http://theex.com</string>
+    <string name="amusement_water_parks_2_website">https://www.iflytoronto.com</string>
+    <string name="amusement_water_parks_3_website">https://www.legolanddiscoverycentre.ca/toronto</string>
+    <string name="amusement_water_parks_4_website">http://www.playdium.com</string>
+    <string name="amusement_water_parks_5_website">http://www.skyzone.com/ca/toronto/Home</string>
+    <string name="amusement_water_parks_6_website">http://www.treetopeco-adventurepark.com</string>
+    <string name="amusement_water_parks_7_website">http://www.centreisland.ca/centreville</string>
+
+    <string-array name="amusement_water_parks_list">
+        <item>@string/amusement_water_parks_0</item>
+        <item>@string/amusement_water_parks_1</item>
+        <item>@string/amusement_water_parks_2</item>
+        <item>@string/amusement_water_parks_3</item>
+        <item>@string/amusement_water_parks_4</item>
+        <item>@string/amusement_water_parks_5</item>
+        <item>@string/amusement_water_parks_6</item>
+        <item>@string/amusement_water_parks_7</item>
+    </string-array>
+
+    <string-array name="amusement_water_parks_details_list">
+        <item>@string/amusement_water_parks_0_details</item>
+        <item>@string/amusement_water_parks_1_details</item>
+        <item>@string/amusement_water_parks_2_details</item>
+        <item>@string/amusement_water_parks_3_details</item>
+        <item>@string/amusement_water_parks_4_details</item>
+        <item>@string/amusement_water_parks_5_details</item>
+        <item>@string/amusement_water_parks_6_details</item>
+        <item>@string/amusement_water_parks_7_details</item>
+    </string-array>
+
+    <string-array name="amusement_water_parks_website_list">
+        <item>@string/amusement_water_parks_0_website</item>
+        <item>@string/amusement_water_parks_1_website</item>
+        <item>@string/amusement_water_parks_2_website</item>
+        <item>@string/amusement_water_parks_3_website</item>
+        <item>@string/amusement_water_parks_4_website</item>
+        <item>@string/amusement_water_parks_5_website</item>
+        <item>@string/amusement_water_parks_6_website</item>
+        <item>@string/amusement_water_parks_7_website</item>
+    </string-array>
+
+    <array name="amusement_water_parks_images_a">
+        <item>@drawable/amusement_water_park_image_zero_a</item>
+        <item>@drawable/amusement_water_park_image_one_a</item>
+        <item>@drawable/amusement_water_park_image_two_a</item>
+        <item>@drawable/amusement_water_park_image_three_a</item>
+        <item>@drawable/amusement_water_park_image_four_a</item>
+        <item>@drawable/amusement_water_park_image_five_a</item>
+        <item>@drawable/amusement_water_park_image_six_a</item>
+        <item>@drawable/amusement_water_park_image_seven_a</item>
+    </array>
+
+    <array name="amusement_water_parks_images_b">
+        <item>@drawable/amusement_water_park_image_zero_b</item>
+        <item>@drawable/amusement_water_park_image_one_b</item>
+        <item>@drawable/amusement_water_park_image_two_b</item>
+        <item>@drawable/amusement_water_park_image_three_b</item>
+        <item>@drawable/amusement_water_park_image_four_b</item>
+        <item>@drawable/amusement_water_park_image_five_b</item>
+        <item>@drawable/amusement_water_park_image_six_b</item>
+        <item>@drawable/amusement_water_park_image_seven_b</item>
+    </array>
+
+</resources>

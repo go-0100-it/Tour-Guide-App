@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="amusement_water_parks">Amusement and Water Parks</string>
+    <string name="festival_events">Festivals and Events</string>
+    <string name="landmarks_historical_sites">Landmarks and Historical Sites</string>
+    <string name="gardens_parks">Gardens and Parks</string>
+    <string name="art_science_museums">Art and Science Museums</string>
+    <string name="intro">With so many things to see and do in Toronto I know it will be difficult to choose just one, so don\'t, do them all!  Tap here to learn about a few of the things Toronto has to offer.</string>
+
+    <string-array name="main_activity_list">
+        <item>@string/amusement_water_parks</item>
+        <item>@string/festival_events</item>
+        <item>@string/landmarks_historical_sites</item>
+        <item>@string/gardens_parks</item>
+        <item>@string/art_science_museums</item>
+    </string-array>
+
+</resources>

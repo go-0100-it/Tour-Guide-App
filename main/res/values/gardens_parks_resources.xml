@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="gardens_parks_0">ALLAN GARDENS CONSERVATORY</string>
+    <string name="gardens_parks_1">ASHBRIDGE’S BAY PARK</string>
+    <string name="gardens_parks_2">CENTENNIAL PARK CONSERVATORY</string>
+    <string name="gardens_parks_3">CUMMER SKATEBOARD PARK</string>
+    <string name="gardens_parks_4">EDWARDS GARDENS</string>
+    <string name="gardens_parks_5">FRANKLIN CHILDREN’S GARDEN</string>
+    <string name="gardens_parks_6">HIGH PARK</string>
+    <string name="gardens_parks_7">HTO PARK</string>
+    <string name="gardens_parks_8">TORONTO BEACHES</string>
+    <string name="gardens_parks_9">TORONTO BOTANICAL GARDEN</string>
+    <string name="gardens_parks_10">TORONTO MUSIC GARDEN</string>
+
+    <string name="gardens_parks_0_details">Open daily 10:00am to 5:00pm. Features six greenhouses comprising over 16,000 square feet of colourful seasonal plants which supplement the permanent plant collection.</string>
+    <string name="gardens_parks_1_details">A park, marina, natural habitat, softballs venue, and one of Toronto’s best places to be in the warmer seasons.</string>
+    <string name="gardens_parks_2_details">Features 12,000 sq. ft. of interesting plant collections in three glass houses. Six Seasonal Flower Shows. Free admission and parking. Open daily 10 a.m.-5 p.m.</string>
+    <string name="gardens_parks_3_details">This 1,440 sq. meter facility is designed to replicate elements of the street including stairs, railing, benches and curbs. The park was constructed to address the needs of the skateboarding community. Free. Open daylight hours only.</string>
+    <string name="gardens_parks_4_details">Features colourful floral displays, rock gardens, butterfly gardens, theme gardens, secluded pathways, picturesque bridges over Wilket Creek with it’s geese and ducks and is the home of the Toronto Botanical Garden.</string>
+    <string name="gardens_parks_5_details">Inspired by Franklin the Turtle, the garden is a special place to play in and learn from, to discover nature, and to enjoy the great adventure of learning.</string>
+    <string name="gardens_parks_6_details">400 acre wilderness park right on the subway system. Enjoy miles of nature trails plus a Trackless Train, Zoo, children’s garden, grenadier pond, adventure playground, hillside gardens and a restored 1837 cottage.</string>
+    <string name="gardens_parks_7_details">From the urbanity to the north and the islands to the south, this picturesque atmosphere is the perfect place to rest and relax by the waterfront.</string>
+    <string name="gardens_parks_8_details">Many of Toronto’s waterfront parks have sand or cobble beaches for you to enjoy. Soak up the lakeside atmosphere, come for a picnic or some beach volleyball, go wading or take a dip at one of 11 designated beaches. There’s even a clothing optional beach …</string>
+    <string name="gardens_parks_9_details">Get inspired! 17 award-winning gardens spanning nearly four acres. Guided tours offered twice a week during the summer months or explore the space at your own pace with an audio tour available at the shop. You’ll also find a complete range of innovative indoor and …</string>
+    <string name="gardens_parks_10_details">The garden design interprets in nature, Bach’s First Suite for Unaccompanied Cello, with each dance movement within the suite corresponding to a different section in the garden. Open year ’round. Free.</string>
+
+    <string name="gardens_parks_0_website">http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=b2a9dada600f0410VgnVCM10000071d60f89RCRD</string>
+    <string name="gardens_parks_1_website">http://www1.toronto.ca/parks/prd/facilities/complex/1</string>
+    <string name="gardens_parks_2_website">http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=a7b9dada600f0410VgnVCM10000071d60f89RCRD</string>
+    <string name="gardens_parks_3_website">http://www1.toronto.ca/parks/prd/facilities/complex/499</string>
+    <string name="gardens_parks_4_website">http://www1.toronto.ca/parks/prd/facilities/complex/473</string>
+    <string name="gardens_parks_5_website">http://torontoisland.com/franklin.php</string>
+    <string name="gardens_parks_6_website">http://www.highparktoronto.com</string>
+    <string name="gardens_parks_7_website">http://www1.toronto.ca/parks/prd/facilities/complex/1663/index.htm</string>
+    <string name="gardens_parks_8_website">http://www.toronto.com/articles/best-toronto-beaches</string>
+    <string name="gardens_parks_9_website">http://torontobotanicalgarden.ca</string>
+    <string name="gardens_parks_10_website">http://www.harbourfrontcentre.com/venues/torontomusicgarden</string>
+
+    <string-array name="gardens_parks_list">
+        <item>@string/gardens_parks_0</item>
+        <item>@string/gardens_parks_1</item>
+        <item>@string/gardens_parks_2</item>
+        <item>@string/gardens_parks_3</item>
+        <item>@string/gardens_parks_4</item>
+        <item>@string/gardens_parks_5</item>
+        <item>@string/gardens_parks_6</item>
+        <item>@string/gardens_parks_7</item>
+        <item>@string/gardens_parks_8</item>
+        <item>@string/gardens_parks_9</item>
+        <item>@string/gardens_parks_10</item>
+
+    </string-array>
+
+    <string-array name="gardens_parks_details_list">
+        <item>@string/gardens_parks_0_details</item>
+        <item>@string/gardens_parks_1_details</item>
+        <item>@string/gardens_parks_2_details</item>
+        <item>@string/gardens_parks_3_details</item>
+        <item>@string/gardens_parks_4_details</item>
+        <item>@string/gardens_parks_5_details</item>
+        <item>@string/gardens_parks_6_details</item>
+        <item>@string/gardens_parks_7_details</item>
+        <item>@string/gardens_parks_8_details</item>
+        <item>@string/gardens_parks_9_details</item>
+        <item>@string/gardens_parks_10_details</item>
+
+    </string-array>
+
+    <string-array name="gardens_parks_website_list">
+        <item>@string/gardens_parks_0_website</item>
+        <item>@string/gardens_parks_1_website</item>
+        <item>@string/gardens_parks_2_website</item>
+        <item>@string/gardens_parks_3_website</item>
+        <item>@string/gardens_parks_4_website</item>
+        <item>@string/gardens_parks_5_website</item>
+        <item>@string/gardens_parks_6_website</item>
+        <item>@string/gardens_parks_7_website</item>
+        <item>@string/gardens_parks_8_website</item>
+        <item>@string/gardens_parks_9_website</item>
+        <item>@string/gardens_parks_10_website</item>
+
+    </string-array>
+
+    <array name="gardens_parks_images_a">
+        <item>@drawable/gardens_parks_image_zero_a</item>
+        <item>@drawable/gardens_parks_image_one_a</item>
+        <item>@drawable/gardens_parks_image_two_a</item>
+        <item>@drawable/gardens_parks_image_three_a</item>
+        <item>@drawable/gardens_parks_image_four_a</item>
+        <item>@drawable/gardens_parks_image_five_a</item>
+        <item>@drawable/gardens_parks_image_six_a</item>
+        <item>@drawable/gardens_parks_image_seven_a</item>
+        <item>@drawable/gardens_parks_image_eight_a</item>
+        <item>@drawable/gardens_parks_image_nine_a</item>
+        <item>@drawable/gardens_parks_image_ten_a</item>
+
+    </array>
+
+    <array name="gardens_parks_images_b">
+        <item>@drawable/gardens_parks_image_zero_b</item>
+        <item>@drawable/gardens_parks_image_one_b</item>
+        <item>@drawable/gardens_parks_image_two_b</item>
+        <item>@drawable/gardens_parks_image_three_b</item>
+        <item>@drawable/gardens_parks_image_four_b</item>
+        <item>@drawable/gardens_parks_image_five_b</item>
+        <item>@drawable/gardens_parks_image_six_b</item>
+        <item>@drawable/gardens_parks_image_seven_b</item>
+        <item>@drawable/gardens_parks_image_eight_b</item>
+        <item>@drawable/gardens_parks_image_nine_b</item>
+        <item>@drawable/gardens_parks_image_ten_b</item>
+
+    </array>
+
+</resources>

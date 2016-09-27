@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="arts_science_museums_0">ART GALLERY OF ONTARIO</string>
+    <string name="arts_science_museums_1">DESIGN EXCHANGE</string>
+    <string name="arts_science_museums_2">DISTILLERY HISTORIC DISTRICT</string>
+    <string name="arts_science_museums_3">HOCKEY HALL OF FAME</string>
+    <string name="arts_science_museums_4">ONTARIO SCIENCE CENTRE</string>
+    <string name="arts_science_museums_5">ROYAL ONTARIO MUSEUM</string>
+    <string name="arts_science_museums_6">TEXTILE MUSEUM OF CANADA</string>
+    <string name="arts_science_museums_7">YORK MUSEUM</string>
+    <string name="arts_science_museums_8">PURINA PAWSWAY</string>
+    <string name="arts_science_museums_9">RIPLEY’S AQUARIUM OF CANADA</string>
+    <string name="arts_science_museums_10">TORONTO ZOO</string>
+
+    <string name="arts_science_museums_0_details">With a collection of more than 80,000 works of art, the Art Gallery of Ontario is among the most distinguished art museums in North America. From the vast body of Group of Seven and signature Canadian works to the African art gallery, from the cutting-edge …</string>
+    <string name="arts_science_museums_1_details">Design Exchange is Canada’s only museum dedicated exclusively to the pursuit of design excellence and preservation of design heritage. At a crossroads of multiple disciplines from furniture and architecture to graphics and fashion, DX exhibitions, talks and education programs are curated to be culturally relevant …</string>
+    <string name="arts_science_museums_2_details">Toronto’s newest centre for arts, culture, food and entertainment. This national historic site includes 44 heritage buildings and numerous brick-lined courtyards. Explore the district’s many restaurants, art galleries, artisan boutiques, specialty retail stores and more.</string>
+    <string name="arts_science_museums_3_details">The world’s one and only! Experience the game that defines Canada and a sport that has been adopted by over seventy countries.  Spread across 65,000 square feet, the Hall of Fame offers something for everyone: the finest collection of hockey artifacts at all levels …</string>
+    <string name="arts_science_museums_4_details">With hundreds of engaging interactive exhibits, including the AstraZeneca Human Edge, and daily science demonstrations, the Ontario Science Centre will delight, inform and challenge visitors of all ages: KidSpark is a unique discovery playground for children eight and under, the Weston Family Innovation Centre has …</string>
+    <string name="arts_science_museums_5_details">No trip to Toronto is complete without a visit to the Royal Ontario Museum – Canada’s largest museum of world cultures and natural history located in the heart of downtown. Explore special exhibitions, permanent galleries of dinosaurs, ancient Egypt, Canada’s First Peoples, gems and minerals, …</string>
+    <string name="arts_science_museums_6_details">The Textile Museum of Canada is one of Toronto’s most engaging visual arts organizations. With more than 13,000 objects from more than 200 countries and regions, the TMC’s permanent collection celebrates cultural diversity and includes traditional fabrics, garments, carpets and related artifacts such as beadwork …</string>
+    <string name="arts_science_museums_7_details">The museum collects and displays photographs and objects which represent the economic, political and social history of the former city of York from its early beginnings to the present day.</string>
+    <string name="arts_science_museums_8_details">The world’s first Exhibit and Event Centre for you and your pet! Located by the exciting Harbourfront Centre, there is something for every dog and cat – and their owners. Admission is free and pets are always welcome.</string>
+    <string name="arts_science_museums_9_details">Toronto’s most exciting attraction! Containing over 5.7 million litres of water, the 12,500 square metre (135,000 square foot) interactive attraction immerses guests in a thrilling underwater adventure that showcases more than 16,000 marine animals. Open 365 days a year, Canada’s largest indoor aquarium features one …</string>
+    <string name="arts_science_museums_10_details">Canada’s premier Zoo offers over 5,000 animals and is home to award-winning exhibits including The Giant Panda Experience (home to Canada’s only giant pandas Er Shun and Da Mao), the African Savannah, Gorilla Rainforest (the largest indoor gorilla exhibit in North America), the Great Barrier …</string>
+
+    <string name="arts_science_museums_0_website">http://www.ago.net</string>
+    <string name="arts_science_museums_1_website">http://www.dx.org</string>
+    <string name="arts_science_museums_2_website">http://www.thedistillerydistrict.com</string>
+    <string name="arts_science_museums_3_website">http://www.hhof.com</string>
+    <string name="arts_science_museums_4_website">http://www.ontariosciencecentre.ca</string>
+    <string name="arts_science_museums_5_website">http://www.rom.on.ca/en#/gallery/recent</string>
+    <string name="arts_science_museums_6_website">http://www.textilemuseum.ca/home</string>
+    <string name="arts_science_museums_7_website">http://www.fortyork.ca</string>
+    <string name="arts_science_museums_8_website">http://www.pawsway.ca</string>
+    <string name="arts_science_museums_9_website">https://www.ripleyaquariums.com/canada</string>
+    <string name="arts_science_museums_10_website">https://www.torontozoo.com</string>
+
+    <string-array name="arts_science_museums_list">
+        <item>@string/arts_science_museums_0</item>
+        <item>@string/arts_science_museums_1</item>
+        <item>@string/arts_science_museums_2</item>
+        <item>@string/arts_science_museums_3</item>
+        <item>@string/arts_science_museums_4</item>
+        <item>@string/arts_science_museums_5</item>
+        <item>@string/arts_science_museums_6</item>
+        <item>@string/arts_science_museums_7</item>
+        <item>@string/arts_science_museums_8</item>
+        <item>@string/arts_science_museums_9</item>
+        <item>@string/arts_science_museums_10</item>
+    </string-array>
+
+    <string-array name="arts_science_museums_details_list">
+        <item>@string/arts_science_museums_0_details</item>
+        <item>@string/arts_science_museums_1_details</item>
+        <item>@string/arts_science_museums_2_details</item>
+        <item>@string/arts_science_museums_3_details</item>
+        <item>@string/arts_science_museums_4_details</item>
+        <item>@string/arts_science_museums_5_details</item>
+        <item>@string/arts_science_museums_6_details</item>
+        <item>@string/arts_science_museums_7_details</item>
+        <item>@string/arts_science_museums_8_details</item>
+        <item>@string/arts_science_museums_9_details</item>
+        <item>@string/arts_science_museums_10_details</item>
+    </string-array>
+
+    <string-array name="arts_science_museums_website_list">
+        <item>@string/arts_science_museums_0_website</item>
+        <item>@string/arts_science_museums_1_website</item>
+        <item>@string/arts_science_museums_2_website</item>
+        <item>@string/arts_science_museums_3_website</item>
+        <item>@string/arts_science_museums_4_website</item>
+        <item>@string/arts_science_museums_5_website</item>
+        <item>@string/arts_science_museums_6_website</item>
+        <item>@string/arts_science_museums_7_website</item>
+        <item>@string/arts_science_museums_8_website</item>
+        <item>@string/arts_science_museums_9_website</item>
+        <item>@string/arts_science_museums_10_website</item>
+    </string-array>
+
+    <array name="arts_science_museums_images_a">
+        <item>@drawable/art_science_image_zero_a</item>
+        <item>@drawable/art_science_image_one_a</item>
+        <item>@drawable/art_science_image_two_a</item>
+        <item>@drawable/art_science_image_three_a</item>
+        <item>@drawable/art_science_image_four_a</item>
+        <item>@drawable/art_science_image_five_a</item>
+        <item>@drawable/art_science_image_six_a</item>
+        <item>@drawable/art_science_image_seven_a</item>
+        <item>@drawable/art_science_image_eight_a</item>
+        <item>@drawable/art_science_image_nine_a</item>
+        <item>@drawable/art_science_image_ten_a</item>
+    </array>
+
+    <array name="arts_science_museums_images_b">
+        <item>@drawable/art_science_image_zero_b</item>
+        <item>@drawable/art_science_image_one_b</item>
+        <item>@drawable/art_science_image_two_b</item>
+        <item>@drawable/art_science_image_three_b</item>
+        <item>@drawable/art_science_image_four_b</item>
+        <item>@drawable/art_science_image_five_b</item>
+        <item>@drawable/art_science_image_six_b</item>
+        <item>@drawable/art_science_image_seven_b</item>
+        <item>@drawable/art_science_image_eight_b</item>
+        <item>@drawable/art_science_image_nine_b</item>
+        <item>@drawable/art_science_image_ten_b</item>
+    </array>
+
+</resources>

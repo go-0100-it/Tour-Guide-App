@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="landmarks_historical_sites_0">FORT YORK NATIONAL HISTORIC SITE</string>
+    <string name="landmarks_historical_sites_1">HERITAGE TORONTO</string>
+    <string name="landmarks_historical_sites_2">HISTORIC ZION SCHOOLHOUSE</string>
+    <string name="landmarks_historical_sites_3">SPADINA MUSEUM: HISTORIC HOUSE and GARDENS</string>
+    <string name="landmarks_historical_sites_4">ONTARIO’S PARLIAMENT BUILDING</string>
+    <string name="landmarks_historical_sites_5">ST. LAWRENCE MARKET COMPLEX</string>
+    <string name="landmarks_historical_sites_6">TORONTO RAILWAY MUSEUM</string>
+    <string name="landmarks_historical_sites_7">CASA LOMA</string>
+    <string name="landmarks_historical_sites_8">CN TOWER</string>
+
+    <string name="landmarks_historical_sites_0_details">Visit the site of the 1813 Battle of York and the birthplace of urban Toronto. Fort York is home to Canada’s largest collection of original War of 1812 buildings which now house exhibits and restored period room settings.</string>
+    <string name="landmarks_historical_sites_1_details">From April to October, Heritage Toronto offers tours (walking, bike, bus and boutique) exploring Toronto’s heritage. To register for tours or for additional information on our plaques and awards programs, please check our website.</string>
+    <string name="landmarks_historical_sites_2_details">Built in 1869 and restored to the 1910 period, Zion Schoolhouse provided elementary education to generations of children of L’Amaroux. Today one of Toronto’s remaining one-room schoolhouses offers educational programs for many school children.</string>
+    <string name="landmarks_historical_sites_3_details">It was the time of the Charleston craze, tabloid journalism, new technology and more – and it can all be seen, heard, felt and lived at Spadina Museum – Toronto’s only museum to represent the 1920s and 30s, a transformative period that dramatically changed the …</string>
+    <string name="landmarks_historical_sites_4_details">Meeting place of Ontario’s Legislature since its 1893 opening, the historic provincial parliament building welcomes visitors year-round. Drop by for a free 30 minute tour, browse our gift shop for Ontario-made products, or join one of our more in-depth visitation programs.</string>
+    <string name="landmarks_historical_sites_5_details">In the centre of historic Old Town Toronto, close to the hub of today’s downtown sits the St. Lawrence Market Complex – three buildings that have served as Toronto’s social centre, City Hall and marketplace throughout the City’s history. Explore the south market building with …</string>
+    <string name="landmarks_historical_sites_6_details">The Toronto Railway Museum is located in the former Canadian Pacific Railway Roundhouse built in 1929. It includes rolling stock and buildings highlighting railway history in Toronto.</string>
+    <string name="landmarks_historical_sites_7_details">Experience the elegance and splendor of the Edwardian era at Casa Loma, the only full sized castle in North America and Toronto’s premier historic attraction brought to you by the Liberty Entertainment Group. Explore secret passageways, elaborately decorated rooms with authentic period furnishings or …</string>
+    <string name="landmarks_historical_sites_8_details">National icon, engineering wonder, Toronto must-see – at 553m/1,815ft the CN Tower is an award-winning dining and entertainment destination. Spectacular views include world-famous Glass Floor, SkyPod and glass fronted elevators with glass floor panels. Three restaurants include award-winning 360 Restaurant (elevation complimentary with prix fixe). …</string>
+
+    <string name="landmarks_historical_sites_0_website">http://www.fortyork.ca</string>
+    <string name="landmarks_historical_sites_1_website">http://heritagetoronto.org</string>
+    <string name="landmarks_historical_sites_2_website">http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=b33e2271635af310VgnVCM10000071d60f89RCRD</string>
+    <string name="landmarks_historical_sites_3_website">http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=919d2271635af310VgnVCM10000071d60f89RCRD</string>
+    <string name="landmarks_historical_sites_4_website">http://www.ontla.on.ca/web/home.do</string>
+    <string name="landmarks_historical_sites_5_website">http://www.stlawrencemarket.com</string>
+    <string name="landmarks_historical_sites_6_website">http://www.trha.ca</string>
+    <string name="landmarks_historical_sites_7_website">http://www.casaloma.org</string>
+    <string name="landmarks_historical_sites_8_website">http://www.cntower.ca</string>
+
+    <string-array name="landmarks_historical_sites_list">
+        <item>@string/landmarks_historical_sites_0</item>
+        <item>@string/landmarks_historical_sites_1</item>
+        <item>@string/landmarks_historical_sites_2</item>
+        <item>@string/landmarks_historical_sites_3</item>
+        <item>@string/landmarks_historical_sites_4</item>
+        <item>@string/landmarks_historical_sites_5</item>
+        <item>@string/landmarks_historical_sites_6</item>
+        <item>@string/landmarks_historical_sites_7</item>
+        <item>@string/landmarks_historical_sites_8</item>
+    </string-array>
+
+    <string-array name="landmarks_historical_sites_details_list">
+        <item>@string/landmarks_historical_sites_0_details</item>
+        <item>@string/landmarks_historical_sites_1_details</item>
+        <item>@string/landmarks_historical_sites_2_details</item>
+        <item>@string/landmarks_historical_sites_3_details</item>
+        <item>@string/landmarks_historical_sites_4_details</item>
+        <item>@string/landmarks_historical_sites_5_details</item>
+        <item>@string/landmarks_historical_sites_6_details</item>
+        <item>@string/landmarks_historical_sites_7_details</item>
+        <item>@string/landmarks_historical_sites_8_details</item>
+    </string-array>
+
+    <string-array name="landmarks_historical_sites_website_list">
+        <item>@string/landmarks_historical_sites_0_website</item>
+        <item>@string/landmarks_historical_sites_1_website</item>
+        <item>@string/landmarks_historical_sites_2_website</item>
+        <item>@string/landmarks_historical_sites_3_website</item>
+        <item>@string/landmarks_historical_sites_4_website</item>
+        <item>@string/landmarks_historical_sites_5_website</item>
+        <item>@string/landmarks_historical_sites_6_website</item>
+        <item>@string/landmarks_historical_sites_7_website</item>
+        <item>@string/landmarks_historical_sites_8_website</item>
+    </string-array>
+
+    <array name="landmarks_historical_sites_images_a">
+        <item>@drawable/land_marks_historical_sites_image_zero_a</item>
+        <item>@drawable/land_marks_historical_sites_image_one_a</item>
+        <item>@drawable/land_marks_historical_sites_image_two_a</item>
+        <item>@drawable/land_marks_historical_sites_image_three_a</item>
+        <item>@drawable/land_marks_historical_sites_image_four_a</item>
+        <item>@drawable/land_marks_historical_sites_image_five_a</item>
+        <item>@drawable/land_marks_historical_sites_image_six_a</item>
+        <item>@drawable/land_marks_historical_sites_image_seven_a</item>
+        <item>@drawable/land_marks_historical_sites_image_eight_a</item>
+
+    </array>
+
+    <array name="landmarks_historical_sites_images_b">
+        <item>@drawable/land_marks_historical_sites_image_zero_b</item>
+        <item>@drawable/land_marks_historical_sites_image_one_b</item>
+        <item>@drawable/land_marks_historical_sites_image_two_b</item>
+        <item>@drawable/land_marks_historical_sites_image_three_b</item>
+        <item>@drawable/land_marks_historical_sites_image_four_b</item>
+        <item>@drawable/land_marks_historical_sites_image_five_b</item>
+        <item>@drawable/land_marks_historical_sites_image_six_b</item>
+        <item>@drawable/land_marks_historical_sites_image_seven_b</item>
+        <item>@drawable/land_marks_historical_sites_image_eight_b</item>
+
+    </array>
+
+</resources>
